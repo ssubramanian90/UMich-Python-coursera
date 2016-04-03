@@ -1,2 +1,2 @@
 # UMich-Python-coursera
-The assignments from 's Machine Learning course on Coursera.
+The assignments from University of Michigan's Python specialization on Coursera.
